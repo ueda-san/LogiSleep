@@ -14,12 +14,20 @@ As an added bonus, there is also a display turn-off prevention function/immediat
 To use the x64 version, download it from the Release page.
 If you want to run it at Windows startup, register the shortcut to Startup. (If you want to put it in the taskbar from the beginning, set the "Run" in the properties of the shortcut to "minimized")
 
+![LogiSleep3_en](https://user-images.githubusercontent.com/70194698/163715194-a8f9a1b2-fb3a-4945-a947-6f12595d0d14.png)
+
+
 - Check "Turns off keyboard LED when screen is off" to turn off the keyboard backlight when the screen is turned off.
 - Check "Prevent the screen from turning off" to prevent the display from turning off by periodically generating a mouse movement event.
 - Pressing the "Turn off now" button immediately turns off the screen.
 
+<img width="267" alt="LogiSleep1_en" src="https://user-images.githubusercontent.com/70194698/163715203-4deccb0e-d2e3-468d-8698-66870c5c8c31.png">
+
+
 Press the minimize button to enter the task tray.
 Double-click the task tray icon to display the window.
+
+<img width="142" alt="LogiSleep2_en" src="https://user-images.githubusercontent.com/70194698/163715212-6568cbd0-bf9b-40a2-b84f-29f7208256c6.png">
 
 
 ## How to build
@@ -44,4 +52,5 @@ Windows10 (21H2) / LED_SDK 9.00
 MIT license
 
 Licensing of Logitech's LED Illumination SDK is in accordance with the documentation that comes with the SDK.
+
 https://www.logitechg.com/en-us/innovation/developer-lab.html
