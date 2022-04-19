@@ -2,7 +2,7 @@
 
 (This file was machine translated)
 
-Turns off the backlight of the Logitech gaming keyboard when the display is turned off.
+If for some reason the keyboard backlight does not turn off when the display is turned off, this software will force the keyboard backlight to turn off.
 As an added bonus, there is also a display turn-off prevention function/immediate turn-off function.
 
 - Logitech Gaming Software or GHUB is required.
